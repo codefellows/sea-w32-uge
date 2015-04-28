@@ -42,11 +42,11 @@ Demonstrate the following skills using **only** your Terminal, your text editor,
 
 ##### 5. Create a directory with the same name as your GitHub username
 
-For example, `ryansobol/`
+For example, `codefellows`
 
 ##### 6. Create a `unix_notes.txt` file in this directory
 
-For example, `ryansobol/unix_notes.txt`
+For example, `codefellows/unix_notes.txt`
 
 ##### 7. Add the notes about what you've learned about Unix to this file
 
@@ -60,7 +60,7 @@ ls <path> Lists the directory content of <path>
 
 ##### 8. Create a `git_notes.txt` file in this directory
 
-For example, `ryansobol/git_notes.txt`
+For example, `codefellows/git_notes.txt`
 
 ##### 9. Add the notes about what you've learned about Git to this file
 
