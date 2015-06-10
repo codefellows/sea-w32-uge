@@ -26,9 +26,9 @@ Unix & Git for Everyone
 
 ---
 
-### Assignment
+### Testing Out of the Workshop
 
-At the workshop, you'll learn all the skills necessary to complete this assignment. It's due before the start of your follow-up Code Fellows course.
+To test out of the workshop, you will need to complete this assignment. Completion of this assignment, whether independently or at the workshop, is due before the start of your Code Fellows course.
 
 Demonstrate the following skills using **only** your Terminal, your text editor, and your web browser.
 
