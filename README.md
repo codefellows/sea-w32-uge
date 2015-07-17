@@ -11,18 +11,18 @@ Unix & Git for Everyone
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
 
-##### 2. Complete the "Console Foundations" and the "Git Basics" online courses
-
-  - http://teamtreehouse.com/library/console-foundations-2
-  - http://teamtreehouse.com/library/git-basics
-
-**TIP:** Treehouse offers a free 14-day trial which you can suspend after completing their courses.
-
-##### 3. Complete the setup guide for your computer's operating system
+##### 2. Complete the setup guide for your computer's operating system
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
   - [Windows](prework/windows/1_terminal.md)
+
+Following completion of these Pre-work assignments, you should:
+ - Have a colorized terminal with a Git compatible prompt
+ - Be able to open files in Sublime Text via the Terminal
+ - Be able to receive a valid response when typing "git --version"
+ - Have plenty of free hard drive space and memory
+ - Can reliably connect to wireless networks
 
 ---
 
