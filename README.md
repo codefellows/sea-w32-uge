@@ -21,8 +21,6 @@ Following completion of these Pre-work assignments, you should:
  - Have a colorized terminal with a Git compatible prompt
  - Be able to open files in Sublime Text via the Terminal
  - Be able to receive a valid response when typing "git --version"
- - Have plenty of free hard drive space and memory
- - Can reliably connect to wireless networks
 
 ---
 
