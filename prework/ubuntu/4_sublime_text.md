@@ -1,11 +1,37 @@
 ### Install Sublime Text
 
-Using APT, it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
+It's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
 
-To get started, run the following command.
+To get started, run the following command in your terminal to check your operating system’s type:
 
 ```
-sudo apt-get install -y sublime-text-installer
+uname -m
+```
+Depending on whether your operating system's type is i386 or x64, follow the guide below.
+
+For i386, run this command:
+
+```
+cd ~
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+```
+
+For x64, run this command:
+
+```
+cd ~
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_amd64.deb
+```
+
+Now, regardless of your operating system type, run the following command to move the files:
+
+```
+sudo mv Sublime\ Text\ 3 /opt/
+```
+Finally, run this command to create a symbolic link. This will allow you to launch Sublime Text from the Terminal.
+
+```
+sudo ln -s /opt/Sublime\ Text\ 3/sublime_text /usr/bin/sublime
 ```
 
 Once installed, use the Dash to launch Sublime Text.
